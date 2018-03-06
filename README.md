@@ -1,3 +1,0 @@
-# Jokerself
-Mencoba
-( MEMBUAT PERCOBAAN BOT SELF LINE)
